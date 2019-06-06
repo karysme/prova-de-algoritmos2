@@ -1,0 +1,9 @@
+int main(){
+int x,tam;
+ 	char n[10];
+	 printf("Digite uma letra:");
+	 scanf("%c"&x);
+  		for (x=1; x <= tam; x++){
+  		printf("%c",n);
+	}
+}
